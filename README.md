@@ -33,5 +33,10 @@ Este projeto realiza uma análise das frequências dos números sorteados na Meg
    Para usar o projeto localmente, clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/frequencia-mega-sena.git
+   git clone https://github.com/sj-silva/frequencia-mega-sena.git
    ```
+
+2. **Acesse o Projeto Online**:
+   O projeto também está disponível online e pode ser acessado através da seguinte URL:
+
+https://sj-silva.github.io/frequencia-mega-sena/
